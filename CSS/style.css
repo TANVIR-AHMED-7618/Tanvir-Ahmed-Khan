@@ -796,7 +796,7 @@
 
 
 
-@media(max-width: 550px){
+@media(max-width: 500px){
     *{
         margin:0px;
         padding:0px;
@@ -834,7 +834,7 @@
         width: 220px;
         height: 250px;
         margin-top: 50px;
-        margin-left: 125px;
+        margin-left: 140px;
         margin-bottom: 20px;
         border-radius: 10px;
         border: 2px solid rgb(244, 101, 54);
