@@ -834,8 +834,8 @@
         width: 220px;
         height: 250px;
         margin-top: 50px;
-        margin-left: 100px;
-        margin-right: 20px;
+        /*margin-left: 100px;
+        margin-right: 20px;*/
         margin-bottom: 20px;
         border-radius: 10px;
         border: 2px solid rgb(244, 101, 54);
