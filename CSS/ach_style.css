@@ -583,6 +583,20 @@
       font-size: 16px;
     }
 
+    .everything .edu .hsc{
+    margin-left: 20px;
+   }
+
+   .everything .edu .hsc h2{
+      margin-left: 0px;
+      font-size: 18px;
+   }
+
+   .everything .edu .hsc h3{
+      margin-left: 0px;
+      font-size: 16px;
+   }
+
     .everything .tskill{
         margin-left: 40px;
     }
