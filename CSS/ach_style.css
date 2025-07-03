@@ -612,7 +612,11 @@
    }
 
     .everything .tskill{
-        margin-left: 40px;
+      margin-left: 10px;
+    }
+
+    .everything .tskill ul{
+      margin-left: 20px;
     }
 
     .everything .achive{
