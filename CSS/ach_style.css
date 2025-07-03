@@ -575,12 +575,13 @@
     }
     .everything .edu .varc h2{
       margin-left: 0px;
-      font-size: 20px;
+      font-size: 20px !important;
+      font-weight: 300;
     }
 
     .everything .edu .varc h3{
       margin-left: 0px;
-      font-size: 18px;
+      font-size: 18px !important;
     }
 
     .everything .tskill{
