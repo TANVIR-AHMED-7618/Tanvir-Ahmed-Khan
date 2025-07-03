@@ -565,16 +565,20 @@
         margin-left: 10px;
     }
 
-    .everything .edu h2 i{
+    /*.everything .edu h2 i{
+      margin-left: 10px;
+    }*/
+
+    .everything .edu .varc{
       margin-left: 10px;
     }
 
-    .everything .edu .varc h2{
+    /*.everything .edu .varc h2{
       margin-left: -50px;
-    }
+    }*/
 
     .everything .edu .varc h3{
-      margin-left: -10px;
+      margin-left: 0px;
     }
 
     .everything .tskill{
